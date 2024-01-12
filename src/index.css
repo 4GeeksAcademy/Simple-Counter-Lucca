@@ -1,0 +1,97 @@
+/* index.css */
+.navbar {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.black-box {
+  background-color: black;
+  padding: 10px; 
+  border: 1px solid rgb(14, 13, 13);
+}
+
+.white-symbol {
+  color: rgb(24, 23, 23);
+  font-size: 2em; 
+}
+
+.number-boxes {
+  display: flex;
+  font-size: 2em; 
+}
+
+.number-box {
+  background-color: black;
+  color: rgb(19, 18, 18);
+  padding: 10px; 
+  margin-right: 10px; 
+  border: 1px solid rgb(19, 19, 19);
+}
+
+.counter-box {
+  background-color: black;
+  padding: 10px; 
+  border: 1px solid white;
+}
+
+.counter-number {
+  text-decoration: underline;
+}
+
+.control-boxes button {
+  background-color: black;
+  color: rgb(17, 16, 16);
+  padding: 10px; 
+  margin-right: 10px; 
+  border: 1px solid rgb(9, 9, 9);
+  cursor: pointer;
+}
+
+/* SecondsCounter.css */
+.black-box {
+  background-color: black;
+  padding: 5px;
+  border: 1px solid rgb(23, 23, 23);
+}
+
+.white-symbol {
+  color: white;
+}
+
+.number-boxes {
+  display: flex;
+}
+
+.number-box {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin-right: 5px;
+  border: 1px solid white;
+}
+
+.counter-box {
+  background-color: black;
+  padding: 5px;
+  border: 1px solid white;
+}
+
+.counter-number {
+  text-decoration: underline;
+}
+
+.control-boxes button {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin-right: 5px;
+  border: 1px solid white;
+  cursor: pointer;
+}
+
+.white-text {
+  color: white; 
+}
